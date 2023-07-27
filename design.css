@@ -36,10 +36,16 @@ input{
 #btn{
   margin-left: 900px ;
 }
+#team-section{
+  background-image: url(images/banner1.png);
+  background-repeat: no-repeat;
+  height: 690px;
+  width: 80%;
+}
 footer{
   background-color: #121212;
   color: white;
-  height: 630px;
+  height: 526px;
   width: 100%;
 }
 .container{
